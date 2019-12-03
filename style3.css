@@ -1,0 +1,10 @@
+* {margin:0px;padding:0px}
+body {background-color:#4500ff61;font-size:40px;font-family:calibri}
+header {border:1px solid #6900ff4f;width:100%;float:left;background-color:#ffffff30;padding:20px;text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000050}
+.container {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000050;position:fixed;border:25px solid #0000001a;top:90%;width:100%}
+.mega {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000060;position:fixed;background-color:#2c263366;border:1px solid #6900ff4f;top:90%;left:10%}
+.mega2 {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000060;position:fixed;background-color:#2c263366;border:1px solid #6900ff4f;top:90%;left:25%}
+.mega3 {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000060;position:fixed;background-color:#2c263366;border:1px solid #6900ff4f;top:90%;left:40%}
+.mega4 {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000060;position:fixed;background-color:#2c263366;border:1px solid #6900ff4f;top:90%;left:60%}
+.mega5 {text-align:center;font-weight:bold;text-shadow:2px 2px 10px #00000060;position:fixed;background-color:#2c263366;border:1px solid #6900ff4f;top:90%;left:80%}
+a {color:black;text-decoration:noun}
